@@ -1,0 +1,11 @@
+build/
+dist/
+audio/
+video/
+*.mkv
+*.mp4
+*.mp3
+*.avi
+*.spec
+main.spec
+ffmpeg/
