@@ -1,4 +1,4 @@
-# vidformygirl
+# Shadys Downloader
 
 Este projeto foi criado com carinho para minha namorada, para que ela possa baixar vídeos de forma fácil e rápida sem ter que ver um trilhão de anúncios. 💖
 
